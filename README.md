@@ -1,4 +1,4 @@
 compute_apps
 ============
-
-apps for the DeIC compute service
+Recipes for scientific apps for the DeIC compute service
+------------
